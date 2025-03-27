@@ -27,10 +27,9 @@ Test your knowledge with  quizzes covering:
 
 ### 3. Practice 💻
 Hands-on exercises to reinforce your learning:
-- Repository setup
-- Branching challenges
-- Collaboration simulations
-- Real-world Git scenarios
+- Beginner entry
+- Intermediate entry
+- Advanced entry
 
 ## 🚀 Getting Started
 
