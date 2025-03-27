@@ -21,10 +21,9 @@ Step-by-step guides to help you learn Git and GitHub from scratch:
 - GitHub Actions
 
 ### 2. Quizzes 🧩
-Test your knowledge with interactive quizzes covering:
+Test your knowledge with  quizzes covering:
 - Basic Git commands
 - Advanced Git concepts
-- GitHub workflow understanding
 
 ### 3. Practice 💻
 Hands-on exercises to reinforce your learning:
